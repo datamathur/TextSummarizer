@@ -1,6 +1,6 @@
 # TextSummarizer
 Using NLP to summarize articles.<br>
-This a very basic basic text summarizer built in Python using NLTK. This is my first NLP project so I've reefrred and copied codes from various resouces which I've mentioned in refernces.<br>
+This a very basic basic text summarizer built in Python using NLTK. This is my first NLP project so I've referred and copied codes from various resouces which I've mentioned in refernces.<br>
 
 ## Results
 ### 1. Result of fb.txt
